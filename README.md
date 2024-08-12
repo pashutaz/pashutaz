@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![vue-conf](https://social-img.staticblitz.com/viteconf2024-tickets/pashutaz/nuxt?v=4)
+
 <!--
 **pashutaz/pashutaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
