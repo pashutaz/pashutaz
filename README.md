@@ -2,7 +2,7 @@
 
 A passionate full-stack developer with diverse experience across multiple technologies and platforms. I love building web applications, games, and innovative solutions.
 
-## 🔭 Tech Stack
+## 💻 Tech Stack
 
 **Backend & Frameworks:**
 - PHP & Laravel
@@ -25,7 +25,6 @@ A passionate full-stack developer with diverse experience across multiple techno
 - **[laravel-vue-bookings](https://github.com/pashutaz/laravel-vue-bookings)** - Booking system built with Laravel and Vue
 - **[laravel-blog](https://github.com/pashutaz/laravel-blog)** - Simple blog platform using Laravel
 - **[nuxt-shop](https://github.com/pashutaz/nuxt-shop)** - E-commerce shop built with Nuxt.js and Vue
-- **[cedar-website](https://github.com/pashutaz/cedar-website)** - Website project with JavaScript
 - **[Vuexy](https://github.com/pashutaz/Vuexy)** - Vue.js dashboard/admin template
 
 ### Tools & Services
@@ -58,3 +57,9 @@ I'm interested in working on:
 ## 📫 Get In Touch
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects!
+
+---
+
+### 📊 My GitHub Stats
+![My Stats](./profile/stats.svg)
+![My Languages](./profile/top-langs.svg)
