@@ -58,8 +58,11 @@ I'm interested in working on:
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects!
 
----
+## 📊 My GitHub Stats
 
-### 📊 My GitHub Stats
 ![My Stats](./profile/stats.svg)
 ![My Languages](./profile/top-langs.svg)
+
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/pashutaz?theme=dark&font=Grenze%20Gotisch) -->
+
+---
